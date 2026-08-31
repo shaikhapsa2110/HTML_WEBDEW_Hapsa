@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Lists </title>
+        <body>
+            <h3> unordered list </h3>
+            <ul>
+                <li> coffee </li>
+                <li> tea </li>
+                <li> Milk </li>
+            </ul>
+            <h3> ordered HTML list </h3>
+            <ol>
+                <li> cofee </li>
+                <li> tea </li>
+                <li> milk </li>
+            </ol>
+            <h3> Description list </h3>
+            <dl>
+                <dt> coffee </dt>
+                <dd>_black hot drink </dd>
+                <dt> Tea </dt>
+                <dd>_brown hot drink </dd>
+                <dt> milk </dt>
+                <dd>_white cold drink </dd>
+            </dl>
+        </body>
+        </html>
+        
+

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Links and attribute </title>
+    </head>
+    <body>
+        <a href="https://WWW.google.co.in"target="_self">google </a>
+        <a href="https://WWW.google.co.in"target="_blank">google </a>
+    </body>
+    </html>

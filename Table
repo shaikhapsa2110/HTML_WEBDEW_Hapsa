@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Table </title>
+    </head>
+    <body>
+        <table border="1" cell spacing="2">
+            <tr>
+                <th> Name </th>
+                <th> age </th>
+                <th>state </th>
+                <th> Branch </th>
+            </tr>
+            <tr>
+                <td> Hapsa </td>
+                <td> 17 </td>
+                <td> Andhra pradesh </td>
+                <td> CSE <td>
+                </tr>
+                <tr>
+                    <td> Deepika </td>
+                    <td> 18 </td>
+                    <td> Andhra pradesh </td>
+                    <td> CSE </td>
+                </tr>
+                <tr>
+                    <td> Kavya </td>
+                    <td> 19 </td>
+                    <td> Andhra pradesh </td>
+                    <td> ECE </td>
+                </tr>
+            </table>
+        </body>
+        </html>
